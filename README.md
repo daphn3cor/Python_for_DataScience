@@ -17,7 +17,7 @@ Python for Datascience is a 2-week, intensive bootcamp taught at Erasmus Univers
 
 [Guide to colab notebooks](https://colab.research.google.com/drive/1ACwdzMt4Q-y65LQfgLA5GeFOH4Wa80fL)
 
-[Colab notebook of the week](https://colab.research.google.com/drive/1ah0xvaOlYWh7Lhf_YLzKs8q1nHlkg7Wq) including challenges.
+[Colab notebook of Session 1](https://colab.research.google.com/drive/1ah0xvaOlYWh7Lhf_YLzKs8q1nHlkg7Wq) including challenges.
 
 *To use the notebook, click on the link > open in playground > save copy in drive. Now you have your own version of the notebook and can custimise it however you want it.*
 
@@ -38,3 +38,6 @@ Python for Datascience is a 2-week, intensive bootcamp taught at Erasmus Univers
 ## Session 5
 
 ### Material Covered
+
+
+The materials of Python for Data Science were created and taught by; Patrick, Alexandru and Daphne
