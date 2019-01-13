@@ -14,6 +14,7 @@ Python for Datascience is a 2-week, intensive bootcamp taught at Erasmus Univers
 - Boolean operators
 - If statements
 - Functions
+- Challenges
 
 [Guide to colab notebooks](https://colab.research.google.com/drive/1ACwdzMt4Q-y65LQfgLA5GeFOH4Wa80fL)
 
@@ -21,12 +22,19 @@ Python for Datascience is a 2-week, intensive bootcamp taught at Erasmus Univers
 
 *To use the notebook, click on the link > open in playground > save copy in drive. Now you have your own version of the notebook and can custimise it however you want it.*
 
-
 ## Session 2
+
+### Material Covered
+
+- Recap Session 1
+- Lists and Tuples
+- Loops
+- List comprehensions
+- In-class project
+
 
 [Colab notebook of Session 2](https://colab.research.google.com/drive/1Nn-ouP_veIp1HUJDbUXJtx6FRdiFk758)
 
-### Material Covered
 
 
 ## Session 3
@@ -42,4 +50,4 @@ Python for Datascience is a 2-week, intensive bootcamp taught at Erasmus Univers
 ### Material Covered
 
 
-The materials of Python for Data Science were created and taught by; Patrick, Alexandru and Daphne
+The materials of Python for Data Science were created and taught by; [Patrick](https://nl.linkedin.com/in/patrickmous), [Alexandru](https://nl.linkedin.com/in/alexandru-socolov-aba690123) and Daphne
