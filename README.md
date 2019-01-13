@@ -1,4 +1,4 @@
-# Python for DataScience
+# Python for Data Science
 
 This repository contains all the links to colab notebooks used in the Python for Data Science Bootcamp by Turing Students Rotterdam.
 Python for Datascience is a 2-week, intensive bootcamp taught at Erasmus University Rotterdam. It teaches the fundamentals of programming in Python, with a focus on the applications in Data Science.
