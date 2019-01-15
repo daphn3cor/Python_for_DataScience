@@ -55,4 +55,4 @@ Python for Datascience is a 2-week, intensive bootcamp taught at Erasmus Univers
 [Notebook with answers](https://colab.research.google.com/drive/1bANk9POew9Uyq3iu9Q2BDdVjdxyVb26c)
 
 
-The materials of Python for Data Science were created and taught by; [Patrick](https://nl.linkedin.com/in/patrickmous), [Alexandru](https://nl.linkedin.com/in/alexandru-socolov-aba690123) and Daphne
+The materials of Python for Data Science were created and taught by; [Patrick](https://nl.linkedin.com/in/patrickmous), [Alexandru](https://nl.linkedin.com/in/alexandru-socolov-aba690123) and [Daphne](https://nl.linkedin.com/in/daphnecornelisse)
