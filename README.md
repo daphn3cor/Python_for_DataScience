@@ -8,7 +8,7 @@ Python for Datascience is a 2-week, intensive bootcamp taught at Erasmus Univers
 
 ### Material Covered
 
-- Jupyter Notebooks
+- What are Jupyter Notebooks
 - Basic python syntax
 - String variables & formatting
 - Boolean operators
@@ -31,15 +31,25 @@ Python for Datascience is a 2-week, intensive bootcamp taught at Erasmus Univers
 - Loops
 - List comprehensions
 - In-class project
+- Challenges
 
 
 [Colab notebook of Session 2](https://colab.research.google.com/drive/1Nn-ouP_veIp1HUJDbUXJtx6FRdiFk758)
 
-
-
 ## Session 3
 
 ### Material Covered
+
+- Introduction to Object-oriented progamming (OOP)
+- Imperative & Declarative Programming
+- Classes and Objects
+- Methods, Attributes, Init, Self
+- Inheritance
+- Super
+- Challenges
+
+[Colab notebook of Session 3](https://colab.research.google.com/drive/1jy69K0h5EiBCglHNtFLrL6Rc9x1CJ2HB)
+
 
 ## Session 4
 
