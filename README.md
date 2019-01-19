@@ -60,11 +60,11 @@ Python for Datascience is a 2-week, intensive bootcamp taught at Erasmus Univers
 - Exploring Numpy 
 - Challenges
 
-#### Datasets
-[starbucks.csv](https://drive.google.com/file/d/1NKF082QunOJEkbIGIUJcgrIdCDtP7RNj/view?usp=sharing)
-[grades.csv](https://drive.google.com/file/d/1HGSE6UD52t5jppRgMci6CWkmvsy0tOaU/view?usp=sharing)
-[temperatures.csv](https://drive.google.com/file/d/18fXO9QJ0SIFhHkCp5oCDBf_blTzg0kFE/view?usp=sharing)
-[temperatures2.csv](https://drive.google.com/file/d/1siagnXqQFVQPDWSlpsi2lu-czhRf-QLq/view?usp=sharing)
+**Datasets**
+  - [starbucks.csv](https://drive.google.com/file/d/1NKF082QunOJEkbIGIUJcgrIdCDtP7RNj/view?usp=sharing)
+  - [grades.csv](https://drive.google.com/file/d/1HGSE6UD52t5jppRgMci6CWkmvsy0tOaU/view?usp=sharing)
+  - [temperatures.csv](https://drive.google.com/file/d/18fXO9QJ0SIFhHkCp5oCDBf_blTzg0kFE/view?usp=sharing)
+  - [temperatures2.csv](https://drive.google.com/file/d/1siagnXqQFVQPDWSlpsi2lu-czhRf-QLq/view?usp=sharing)
 
 
 ## Session 5
