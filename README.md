@@ -60,6 +60,9 @@ Python for Datascience is a 2-week, intensive bootcamp taught at Erasmus Univers
 - Exploring Numpy 
 - Challenges
 
+[Colab notebook of Session 4](https://colab.research.google.com/drive/1WU0smWlJcH4cco1IzbSj1hLwfDxCbBlx)
+
+
 **Datasets**
   - [starbucks.csv](https://drive.google.com/file/d/1NKF082QunOJEkbIGIUJcgrIdCDtP7RNj/view?usp=sharing)
   - [grades.csv](https://drive.google.com/file/d/1HGSE6UD52t5jppRgMci6CWkmvsy0tOaU/view?usp=sharing)
