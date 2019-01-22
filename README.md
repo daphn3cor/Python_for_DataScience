@@ -74,6 +74,17 @@ Python for Datascience is a 2-week, intensive bootcamp taught at Erasmus Univers
 
 ### Material Covered
 
+- Charts and variables
+- Plot data with matplotlib
+- Exploring a big dataset
+- Visualising features of the data
+
+**json file**
+- [kaggle.json](https://drive.google.com/file/d/1lIw0VympTZTWcSDoHy7ybzjJwkDRyaCG/view?usp=sharing)
+
+[Colab notebook of Session 5](https://colab.research.google.com/drive/1Jxx38ukOKpIBrEW3yPFO-NY8hPJkvoRf)
+
+
 
 ## Answers to Challenges
 
