@@ -109,7 +109,7 @@ Then [codewars](https://www.codewars.com/) is for you. Codewars is a platform fu
 ### Case II - I want to apply Python for my thesis / other project
 
 The best way is to just start. Of course you will get stuck, but you are (almost) never the only one with a problem. You just need motivation, time and stackoverflow.
-But if you like a book, I'd recommend [automate the boring stuff](https://automatetheboringstuff.com/)
+But if you like to work with a book, I'd recommend [automate the boring stuff](https://automatetheboringstuff.com/)
 
 ### Case III - I want to do Machine Learning / Data Science 
 
