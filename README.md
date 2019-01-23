@@ -91,4 +91,36 @@ Python for Datascience is a 2-week, intensive bootcamp taught at Erasmus Univers
 [Notebook with answers](https://colab.research.google.com/drive/1bANk9POew9Uyq3iu9Q2BDdVjdxyVb26c)
 
 
-The materials of Python for Data Science were created and taught by; [Patrick](https://nl.linkedin.com/in/patrickmous), [Alexandru](https://nl.linkedin.com/in/alexandru-socolov-aba690123) and [Daphne](https://nl.linkedin.com/in/daphnecornelisse)
+## Feedback :)
+
+[Give feedback](https://docs.google.com/forms/d/e/1FAIpQLSdlqYyi0op1IWqrzoeE8TPKJPKXPMTWINNydY10NveF02RQRg/viewform)
+
+
+
+## Where to go from here
+
+I believe that to improve your coding skills, you need some type of goal or project that makes sure you will keep coding.
+There are many great resources out there, here I will provide you with some tips and resources that will set you up for success.
+
+### Case I - I want to improve my algorithmic thinking / logic
+
+Then [codewars](https://www.codewars.com/) is for you. Codewars is a platform full of short challenges called "katas". They are sorted by difficulty and cover various topics such as logic, algortihms, math, games and more. As you get points per solved kata, it is addicting! Another cool feature is that you get to see other people's solutions after solving the problem. 
+
+### Case II - I want to apply Python for my thesis / other project
+
+The best way is to just start. Of course you will get stuck, but you are (almost) never the only one with a problem. You just need motivation, time and stackoverflow.
+But if you like a book, I'd recommend [automate the boring stuff](https://automatetheboringstuff.com/)
+
+### Case III - I want to do Machine Learning / Data Science 
+
+Obviously Bletchley starts in February, but if for one reason or another you are not able to join, these are the recommendations;
+
+- 1. [Do a Course in ML / DL](https://digitaldefynd.com/best-machine-learning-and-deep-learning-courses/)
+- 2. Make a Kaggle account and start participating in competitions. Apply your knowledge!
+
+On a final note; if you want to do a project, collect a group of people that are interested as well. This way you make sure you will stick to your goals and frankly retain more information. Other people will always ask different questions than you.
+
+
+
+
+*The materials of Python for Data Science were created and taught by; [Patrick](https://nl.linkedin.com/in/patrickmous), [Alexandru](https://nl.linkedin.com/in/alexandru-socolov-aba690123) and [Daphne](https://nl.linkedin.com/in/daphnecornelisse)*
