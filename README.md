@@ -119,6 +119,6 @@ On a final note; if you want to do a project, collect a group of people that are
 
 PYTHON DDW
 
-[DDW Notebook](https://drive.google.com/file/d/1eAFom5y23ou77WzxLaxWN-4KBHHJVGkf/view?usp=sharing)
+[DDW Notebook:](https://drive.google.com/file/d/1eAFom5y23ou77WzxLaxWN-4KBHHJVGkf/view?usp=sharing)
 
 *The materials of Python for Data Science were created and taught by; [Patrick](https://nl.linkedin.com/in/patrickmous), [Alexandru](https://nl.linkedin.com/in/alexandru-socolov-aba690123) and [Daphne](https://nl.linkedin.com/in/daphnecornelisse)*
