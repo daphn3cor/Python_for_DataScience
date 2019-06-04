@@ -117,6 +117,8 @@ Obviously Bletchley starts in February, but if for one reason or another you are
 On a final note; if you want to do a project, collect a group of people that are interested as well. This way you make sure you will stick to your goals and frankly retain more information. Other people will always ask different questions than you.
 
 
+PYTHON DDW
 
+[DDW Notebook](https://drive.google.com/file/d/1eAFom5y23ou77WzxLaxWN-4KBHHJVGkf/view?usp=sharing)
 
 *The materials of Python for Data Science were created and taught by; [Patrick](https://nl.linkedin.com/in/patrickmous), [Alexandru](https://nl.linkedin.com/in/alexandru-socolov-aba690123) and [Daphne](https://nl.linkedin.com/in/daphnecornelisse)*
