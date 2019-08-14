@@ -90,17 +90,18 @@ Python for Datascience is a 2-week, intensive bootcamp taught at Erasmus Univers
 
 ## Exam Instructions
 
-*Save your boss
+*Save your boss*
 
-It is a Thursday afternoon in the Drieloitte office, 17.46 to be precise. As it was a busy week, you are about to pack your stuff and have a beer with a few  friends. But then your boss walks towards you, slightly panicking. That doesn’t look good, you think to yourself. “I need you to do a data analysis right now” he says. “We promised our very important client Woogle to have their data explored and analysed by this morning. Now, our best Data Scientist Ben quit his job this morning! We didn’t know what to do but then I remember you did this awesome Data Science course with Python. Can you please help us out??”
+*It is a Thursday afternoon in the Drieloitte office, 17.46 to be precise. As it was a busy week, you are about to pack your stuff and have a beer with a few  friends. But then your boss walks towards you, slightly panicking. That doesn’t look good, you think to yourself. “I need you to do a data analysis right now” he says. “We promised our very important client Woogle to have their data explored and analysed by this morning. Now, our best Data Scientist Ben quit his job this morning! We didn’t know what to do but then I remember you did this awesome Data Science course with Python. Can you please help us out??”*
 
-For a moment, you think about your beer in the pub, and the struggles this challenge will bring you. But then, you turn around and say with a determined voice: “Let’s explore that dataset.”
+*For a moment, you think about your beer in the pub, and the struggles this challenge will bring you. But then, you turn around and say with a determined voice: “Let’s explore that dataset.”*
 
 You can choose between 4 datasets;
 
-Credit Risk Analysis https://www.kaggle.com/karanagarwal/bankloans
-Premier League Info https://www.kaggle.com/lynuhs/premier-league-19922017
-Yelp https://www.kaggle.com/anupam99/review
+[Credit Risk Analysis](https://www.kaggle.com/karanagarwal/bankloans)
+[Premier League Info](https://www.kaggle.com/lynuhs/premier-league-19922017)
+[Yelp](https://www.kaggle.com/anupam99/review)
+
 The Kaggle Survey dataset used in Session 5
 
 Your task is to pick one of the above datasets and load it in ( kaggle / colab / jupyter notebook ). And do a data analysis where you explore the most important features of the dataset. Make sure that you visualise what you find and also interpret it (i.e. explain your findings).
